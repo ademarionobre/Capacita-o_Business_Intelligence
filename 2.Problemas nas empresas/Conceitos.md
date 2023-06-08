@@ -15,3 +15,8 @@ Para o vendedor, a partir do momento em que é emitida nota fiscal é realizada 
 Cada setor fornece a resposta baseada nos critérios de seu próprio mundo, ou seja, na forma como os números são manipulados em seus departamentos.
 
 Isso ocorre em muitas empresas porque não há uma unificação do conceito de "venda".
+![image](https://github.com/ademarionobre/Business_Intelligence-DataWarehouse/assets/92057489/41193394-d711-42bc-a8b0-0f57e5e6812b)
+
+![image](https://github.com/ademarionobre/Business_Intelligence-DataWarehouse/assets/92057489/04dd124f-5155-45de-b855-8b35a88db1f1)
+![image](https://github.com/ademarionobre/Business_Intelligence-DataWarehouse/assets/92057489/a2fc7839-ef00-4d7f-81ce-f0c034959031)
+![image](https://github.com/ademarionobre/Business_Intelligence-DataWarehouse/assets/92057489/dbe79873-390e-42c6-8164-b3a1c73e8dc9)
