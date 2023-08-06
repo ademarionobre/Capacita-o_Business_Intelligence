@@ -48,4 +48,5 @@ Tópicos de estudo e aplicação:
 * Tableau: gráficos simples e avançados
 * Tableau: preparação e transformação de dados
 
+https://techguide.sh/pt-BR/path/business-intelligence/  
 Fonte: Cursos ALURA.
